@@ -1,5 +1,5 @@
 {
   "env": {
-    "MONGO": "mongodb://admin:admin@sandbox-cluster-shard-00-00-a38l5.mongodb.net:27017,sandbox-cluster-shard-00-01-a38l5.mongodb.net:27017,sandbox-cluster-shard-00-02-a38l5.mongodb.net:27017/dubai-taxi?ssl=true&replicaSet=sandbox-cluster-shard-0&authSource=admin&retryWrites=true"
+    "MONGO": "mongodb://localhost:27017/dubai-taxi"
   }
 }
